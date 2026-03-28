@@ -21,7 +21,10 @@ Built with Python, PyQt5, BeautifulSoup, and openpyxl.
 
 ## Screenshots
 
-> *(Add screenshots here after running the app)*
+> <img width="989" height="748" alt="image" src="https://github.com/user-attachments/assets/59f2e241-851a-4ac0-993b-4cf9bc94f3c8" />
+<img width="998" height="750" alt="image" src="https://github.com/user-attachments/assets/e0f81792-c3c8-44a1-84ad-a1ab2475e2ab" />
+
+
 
 ---
 
